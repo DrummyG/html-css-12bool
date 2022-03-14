@@ -1,0 +1,52 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+.box, .box-nested{
+    min-height: 50px;
+    padding: 15px;
+    background-color: cornflowerblue;
+    border: 1px solid;
+    text-align: center;
+    color: white;
+}
+
+.box-nested{
+    width: 100%;
+    background-color: limegreen;
+}
+
+.box-acc{
+    height: 100px;
+}
+
+.cont{
+    min-height: 70px;
+    padding: 15px;
+}
+
+.black{
+    background-color: black;
+}
+
+.light{
+    background-color: #28b7e6;
+}
+
+.yellow{
+    background-color: #e6dd43;
+}
+
+.blue{
+    background-color: #0849a7;
+}
+
+.grey{
+    background-color: #cac8ac;
+}
